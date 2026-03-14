@@ -1,5 +1,3 @@
-
-
 # The Forbidden City in the color spectrum
 
 ## Introduction
